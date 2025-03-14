@@ -1,5 +1,3 @@
- Algoritmo-nivel-1
-
 
 print("Qual é o primeiro número?")
 numero1 = int(input())
